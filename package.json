@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@plasmicapp/cli": "^0.1.335",
-    "@plasmicapp/react-web": "^0.2.366",
+    "@plasmicapp/react-web": "^0.2.408",
     "@plasmicpkgs/react-aria": "^0.0.104",
     "next": "^16.0.10",
     "react": "^18",
