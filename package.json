@@ -12,7 +12,7 @@
     "@plasmicapp/cli": "^0.1.335",
     "@plasmicapp/react-web": "^0.2.366",
     "@plasmicpkgs/react-aria": "^0.0.104",
-    "next": "14.2.23",
+    "next": "^16.0.10",
     "react": "^18",
     "react-dom": "^18"
   },
@@ -20,8 +20,8 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.23",
+    "eslint": "^9.39.2",
+    "eslint-config-next": "^16.0.10",
     "typescript": "^5"
   }
 }
